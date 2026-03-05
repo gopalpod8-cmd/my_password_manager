@@ -25,8 +25,5 @@ The system uses a professional-grade cryptographic pipeline:
 
 ---
 
+*** Please install pip install cryptography pyperclip ***
 
-
-You have built a fully functional security application from scratch and successfully mastered Git version control.
-
-**Would you like me to show you how to add a "Password Strength Meter" so the app can tell you if a password you type is too weak?**
